@@ -1,2 +1,3 @@
 # Super-Mango
-Repository with a small platformer game made in Raylib
+Repository with a small platformer game made in C++ Raylib.
+This time I decided to try something entirely different from my previous game. I challanged myslef to make a small platformer here you can see how it goes.
